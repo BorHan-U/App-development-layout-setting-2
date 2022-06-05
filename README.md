@@ -1,16 +1,3 @@
-# layout_assignment_2_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="500" alt="Screenshot 2022-06-05 at 10 06 11 PM" src="https://user-images.githubusercontent.com/55747898/172055032-59ad09fa-586d-4e15-b945-2d18bbd80c91.png">
+<img width="497" alt="Screenshot 2022-06-05 at 10 06 42 PM" src="https://user-images.githubusercontent.com/55747898/172055038-a790d3fc-cbfb-4b13-a386-169fda396b80.png">
+<img width="496" alt="Screenshot 2022-06-05 at 10 07 00 PM" src="https://user-images.githubusercontent.com/55747898/172055041-91c0c651-dc62-4865-9d1e-ee85c8468105.png">
